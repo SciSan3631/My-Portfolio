@@ -1,2 +1,2 @@
 # My-Portfolio
-This repository will be acessible to link all of my projects 
+This repository will be accessible to link all of my projects 
